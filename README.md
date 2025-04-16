@@ -1,11 +1,11 @@
 - 👋 Hi, I’m David
-- 🔥 Passionate about Sports Innovation, Community Development & Youth Empowerment
-- 🎓 Currently upskilling in Project Management & Business Analysis (Tech & Sports focus)
-- 🚀 Background in Brand Strategy, Football Operations, and Youth Development
-- 🎯 Long-term goal: Become a leading figure in Digital Sports Transformation across Africa & globally
-- 🌍 Open to collaborations on grassroots football projects, digital transformation in sports, and football-tech products
+- 🔥 Passionate about Innovation, Community Impact, and Youth Empowerment
+- 🎓 Currently upskilling in Project Management & Business Analysis (with a focus on Tech and Strategy)
+- 🚀 Background in Brand Strategy, Operations Management, and Youth Engagement Programs
+- 🎯 Long-term goal: To drive digital transformation and help brands connect meaningfully with communities—locally & globally
+- 🌍 Open to collaborations in branding, creative strategy, digital products, and community-focused campaigns
 - 📩 Reach me at: seunademilokun@yahoo.com
-- 😄 Fun fact: I helped a grassroots football program grow by 40%, reaching 90+ schools across the region!
+- 😄 Fun fact: I helped a youth initiative grow by 40%, reaching over 90 schools—turning a grassroots idea into a regional success!
 
 <!---
 transition25/transition25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
